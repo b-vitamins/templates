@@ -1,0 +1,64 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.ps
+
+# Bibliography artifacts
+*.brf
+*.bcf
+*.run.xml
+
+# Compiled PDFs
+*.pdf
+
+# Backup files
+*.bak
+*.backup
+*~
+*.tmp
+*.temp
+
+# Editor files
+## Vim
+*.swp
+*.swo
+.*.sw[a-z]
+
+## Emacs
+*~
+\#*\#
+.\#*
+
+## VS Code
+.vscode/
+
+## TeXstudio
+*.txss
+
+## macOS
+.DS_Store
+._*
+
+## Windows
+Thumbs.db
+desktop.ini
+
+# Python (if you use any scripts)
+__pycache__/
+*.pyc
+
+# Other
+.directory
